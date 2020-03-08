@@ -1,0 +1,1 @@
+const news = "Add new JS FIle"
